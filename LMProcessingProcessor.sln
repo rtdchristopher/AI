@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LMProcessingProcessor", "LMProcessingProcessor.pyproj", "{C05D244C-FA26-4F7B-BC96-A6C47BC0CC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05D244C-FA26-4F7B-BC96-A6C47BC0CC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05D244C-FA26-4F7B-BC96-A6C47BC0CC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C67A69-90F9-43BC-8A2F-15DBB24C2AA7}
+	EndGlobalSection
+EndGlobal
